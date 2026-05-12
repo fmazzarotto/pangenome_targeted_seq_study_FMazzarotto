@@ -1,0 +1,149 @@
+2026-03-31 16:15:14 serial = 27182818284
+2026-03-31 16:15:14 email = anon
+2026-03-31 16:15:14 RTG version = RTG Tools 3.13 / Core c27844a5bb (2025-05-27)
+2026-03-31 16:15:14 awt.toolkit.name = XToolkit
+2026-03-31 16:15:14 file.encoding = UTF-8
+2026-03-31 16:15:14 file.separator = /
+2026-03-31 16:15:14 host.name = login-ai
+2026-03-31 16:15:14 intellij.os.virtualization = none
+2026-03-31 16:15:14 java.class.path = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/share/rtg-tools-3.13-0/RTG.jar
+2026-03-31 16:15:14 java.class.version = 65.0
+2026-03-31 16:15:14 java.home = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval
+2026-03-31 16:15:14 java.io.tmpdir = /tmp
+2026-03-31 16:15:14 java.library.path = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/share/rtg-tools-3.13-0
+2026-03-31 16:15:14 java.runtime.name = OpenJDK Runtime Environment
+2026-03-31 16:15:14 java.runtime.version = 21.0.6+9-b895.97
+2026-03-31 16:15:14 java.specification.name = Java Platform API Specification
+2026-03-31 16:15:14 java.specification.vendor = Oracle Corporation
+2026-03-31 16:15:14 java.specification.version = 21
+2026-03-31 16:15:14 java.vendor = JetBrains s.r.o.
+2026-03-31 16:15:14 java.vendor.url = https://openjdk.org/
+2026-03-31 16:15:14 java.vendor.url.bug = https://bugreport.java.com/bugreport/
+2026-03-31 16:15:14 java.vendor.version = JBR-21.0.6+9-895.97-nomod
+2026-03-31 16:15:14 java.version = 21.0.6
+2026-03-31 16:15:14 java.version.date = 2025-01-21
+2026-03-31 16:15:14 java.vm.compressedOopsMode = Zero based
+2026-03-31 16:15:14 java.vm.info = mixed mode, sharing
+2026-03-31 16:15:14 java.vm.name = OpenJDK 64-Bit Server VM
+2026-03-31 16:15:14 java.vm.specification.name = Java Virtual Machine Specification
+2026-03-31 16:15:14 java.vm.specification.vendor = Oracle Corporation
+2026-03-31 16:15:14 java.vm.specification.version = 21
+2026-03-31 16:15:14 java.vm.vendor = JetBrains s.r.o.
+2026-03-31 16:15:14 java.vm.version = 21.0.6+9-b895.97
+2026-03-31 16:15:14 jbr.virtualization.information = No virtualization detected
+2026-03-31 16:15:14 jdk.debug = release
+2026-03-31 16:15:14 lang.version = 21.0.6
+2026-03-31 16:15:14 line.separator = 
+
+2026-03-31 16:15:14 models.dir = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/share/rtg-tools-3.13-0/models
+2026-03-31 16:15:14 nashorn.option.no.deprecation.warning = true
+2026-03-31 16:15:14 native.encoding = UTF-8
+2026-03-31 16:15:14 os.arch = amd64
+2026-03-31 16:15:14 os.freememory = 34065625088
+2026-03-31 16:15:14 os.name = Linux
+2026-03-31 16:15:14 os.totalmemory = 34359738368
+2026-03-31 16:15:14 os.version = 4.18.0-553.76.1.el8_10.x86_64
+2026-03-31 16:15:14 path.separator = :
+2026-03-31 16:15:14 polyglot.js.nashorn-compat = true
+2026-03-31 16:15:14 processor.arch = amd64
+2026-03-31 16:15:14 processor.count = 64
+2026-03-31 16:15:14 references.dir = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/share/rtg-tools-3.13-0/references
+2026-03-31 16:15:14 runtime.freememory = 539266272
+2026-03-31 16:15:14 runtime.maxmemory = 30937186304
+2026-03-31 16:15:14 runtime.totalMemory = 553648128
+2026-03-31 16:15:14 stderr.encoding = UTF-8
+2026-03-31 16:15:14 stdout.encoding = UTF-8
+2026-03-31 16:15:14 sun.arch.data.model = 64
+2026-03-31 16:15:14 sun.boot.library.path = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/lib
+2026-03-31 16:15:14 sun.cpu.endian = little
+2026-03-31 16:15:14 sun.io.unicode.encoding = UnicodeLittle
+2026-03-31 16:15:14 sun.java.command = /rds/general/user/fmazzaro/home/miniforge3/envs/vcfeval/share/rtg-tools-3.13-0/RTG.jar vcfeval --baseline=HG002_truthset_overlapBEDinGRAFandGATKhcanalysis_max19bp.vcf.gz --bed-regions=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed --calls=/rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/GATKhc/HG002_gatkhc_max19bp_FINAL.vcf.gz --evaluation-regions=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed --output /rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/vcfeval_results_max19bp_GATKhc --template=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/reference/Homo_sapiens_assembly38.sdf --no-roc --threads 16
+2026-03-31 16:15:14 sun.java.launcher = SUN_STANDARD
+2026-03-31 16:15:14 sun.jnu.encoding = UTF-8
+2026-03-31 16:15:14 sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2026-03-31 16:15:14 talkback = true
+2026-03-31 16:15:14 usage = false
+2026-03-31 16:15:14 user.country = US
+2026-03-31 16:15:14 user.dir = /rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/HG002_truth_set
+2026-03-31 16:15:14 user.home = /rds/general/user/fmazzaro/home
+2026-03-31 16:15:14 user.language = en
+2026-03-31 16:15:14 user.name = fmazzaro
+2026-03-31 16:15:14 user.timezone = Europe/London
+2026-03-31 16:15:14 vendor = JetBrains s.r.o.
+2026-03-31 16:15:14 gzipfix.enabled = true
+2026-03-31 16:15:14 Command line arguments: rtg vcfeval --baseline=HG002_truthset_overlapBEDinGRAFandGATKhcanalysis_max19bp.vcf.gz --bed-regions=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed --calls=/rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/GATKhc/HG002_gatkhc_max19bp_FINAL.vcf.gz --evaluation-regions=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed --output /rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/vcfeval_results_max19bp_GATKhc --template=/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/reference/Homo_sapiens_assembly38.sdf --no-roc --threads 16
+2026-03-31 16:15:14 Run Id: 4d888801-47fa-445e-b451-f42d98e55b8a
+2026-03-31 16:15:14 Referenced SDF-ID: ac63ddb6-90ad-4c2d-8d66-98c7d1305d52 Type: DNA Sequences: 3366 Max-Length: 248956422 Min-Length: 970 Arm: UNKNOWN
+2026-03-31 16:15:15 Variant orientors per pass: [unphased (2 haplotypes):unphased (2 haplotypes)]
+2026-03-31 16:15:15 Reference chr1 baseline contains 3893 variants.
+2026-03-31 16:15:15 Reference chr1 calls contains 3813 variants.
+2026-03-31 16:15:16 Reference chr2 baseline contains 2743 variants.
+2026-03-31 16:15:16 Reference chr2 calls contains 2711 variants.
+2026-03-31 16:15:16 Reference chr3 baseline contains 2204 variants.
+2026-03-31 16:15:16 Reference chr3 calls contains 2192 variants.
+2026-03-31 16:15:16 Reference chr4 baseline contains 1736 variants.
+2026-03-31 16:15:16 Reference chr4 calls contains 1716 variants.
+2026-03-31 16:15:16 Reference chr5 baseline contains 1853 variants.
+2026-03-31 16:15:16 Reference chr5 calls contains 1790 variants.
+2026-03-31 16:15:16 Reference chr6 baseline contains 1819 variants.
+2026-03-31 16:15:16 Reference chr6 calls contains 1800 variants.
+2026-03-31 16:15:16 Reference chr7 baseline contains 2015 variants.
+2026-03-31 16:15:16 Reference chr7 calls contains 1952 variants.
+2026-03-31 16:15:16 Reference chr8 baseline contains 1548 variants.
+2026-03-31 16:15:16 Reference chr8 calls contains 1433 variants.
+2026-03-31 16:15:16 Reference chr9 baseline contains 1618 variants.
+2026-03-31 16:15:16 Reference chr9 calls contains 1607 variants.
+2026-03-31 16:15:16 Reference chr10 baseline contains 1824 variants.
+2026-03-31 16:15:16 Reference chr10 calls contains 1801 variants.
+2026-03-31 16:15:16 Reference chr11 baseline contains 2691 variants.
+2026-03-31 16:15:16 Reference chr11 calls contains 2554 variants.
+2026-03-31 16:15:16 Reference chr4 had maximum path complexity of 133 at chr4:6112692-6291181
+2026-03-31 16:15:16 Reference chr3 had maximum path complexity of 31 at chr3:194653102-194658917
+2026-03-31 16:15:16 Reference chr12 baseline contains 2258 variants.
+2026-03-31 16:15:16 Reference chr12 calls contains 2212 variants.
+2026-03-31 16:15:16 Reference chr1 had maximum path complexity of 81 at chr1:62121342-62128920
+2026-03-31 16:15:16 Reference chr13 baseline contains 794 variants.
+2026-03-31 16:15:16 Reference chr13 calls contains 802 variants.
+2026-03-31 16:15:17 Reference chr8 had maximum path complexity of 31 at chr8:8376701-8377197
+2026-03-31 16:15:17 Reference chr2 had maximum path complexity of 31 at chr2:96208851-96253903
+2026-03-31 16:15:17 Reference chr14 baseline contains 1558 variants.
+2026-03-31 16:15:17 Reference chr14 calls contains 1499 variants.
+2026-03-31 16:15:17 Reference chr9 had maximum path complexity of 81 at chr9:12775862-12775889
+2026-03-31 16:15:17 Reference chr15 baseline contains 1470 variants.
+2026-03-31 16:15:17 Reference chr15 calls contains 1364 variants.
+2026-03-31 16:15:17 Reference chr6 had maximum path complexity of 81 at chr6:75085406-75087585
+2026-03-31 16:15:17 Reference chr5 had maximum path complexity of 31 at chr5:80056035-80058823
+2026-03-31 16:15:17 Reference chr7 had maximum path complexity of 31 at chr7:13977381-13986101
+2026-03-31 16:15:17 Reference chr16 baseline contains 1818 variants.
+2026-03-31 16:15:17 Reference chr16 calls contains 1740 variants.
+2026-03-31 16:15:17 Reference chr17 baseline contains 2352 variants.
+2026-03-31 16:15:17 Reference chr17 calls contains 2185 variants.
+2026-03-31 16:15:17 Reference chr10 had maximum path complexity of 37 at chr10:68292051-68292170
+2026-03-31 16:15:17 Reference chr18 baseline contains 697 variants.
+2026-03-31 16:15:17 Reference chr18 calls contains 686 variants.
+2026-03-31 16:15:17 Reference chr12 had maximum path complexity of 31 at chr12:5575835-5647657
+2026-03-31 16:15:17 Reference chr11 had maximum path complexity of 81 at chr11:18407090-18446273
+2026-03-31 16:15:17 Reference chr14 had maximum path complexity of 133 at chr14:37622819-37724901
+2026-03-31 16:15:17 Reference chr19 baseline contains 2890 variants.
+2026-03-31 16:15:17 Reference chr19 calls contains 2704 variants.
+2026-03-31 16:15:17 Reference chr15 had maximum path complexity of 31 at chr15:42343196-42345744
+2026-03-31 16:15:17 Reference chr13 had maximum path complexity of 81 at chr13:38357513-38358408
+2026-03-31 16:15:17 Reference chr20 baseline contains 1102 variants.
+2026-03-31 16:15:17 Reference chr20 calls contains 1099 variants.
+2026-03-31 16:15:17 Reference chr16 had maximum path complexity of 81 at chr16:51143416-52027134
+2026-03-31 16:15:17 Reference chr17 had maximum path complexity of 31 at chr17:17423289-17506245
+2026-03-31 16:15:17 Reference chr18 had maximum path complexity of 31 at chr18:2688574-2707620
+2026-03-31 16:15:17 Reference chr21 baseline contains 537 variants.
+2026-03-31 16:15:17 Reference chr21 calls contains 512 variants.
+2026-03-31 16:15:17 Reference chr19 had maximum path complexity of 31 at chr19:12076105-12077045
+2026-03-31 16:15:17 Reference chr22 baseline contains 985 variants.
+2026-03-31 16:15:17 Reference chr22 calls contains 932 variants.
+2026-03-31 16:15:17 Reference chr20 had maximum path complexity of 81 at chr20:62570425-62695027
+2026-03-31 16:15:17 Reference chr21 had maximum path complexity of 31 at chr21:44558707-44574610
+2026-03-31 16:15:18 Reference chr22 had maximum path complexity of 31 at chr22:20141356-20141582
+2026-03-31 16:15:19 Fraction of calls outside evaluation regions: 0.0001 (3/39067)
+2026-03-31 16:15:19 Threshold  True-pos-baseline  True-pos-call  False-pos  False-neg  Precision  Sensitivity  F-measure
+----------------------------------------------------------------------------------------------------
+     None              38447          38446        618       1915     0.9842       0.9526     0.9681
+
+2026-03-31 16:15:19 Finished successfully in 4 s.

@@ -1,0 +1,67 @@
+2026-02-27 11:50:21,468 [INFO] Truvari v5.4.0
+2026-02-27 11:50:21,469 [INFO] Command /rds/general/user/fmazzaro/home/miniforge3/envs/truvari/bin/truvari bench --passonly --sizemin 20 --sizefilt 15 --sizemax -1 --bnddist -1 --dup-to-ins --includebed /rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed -b /rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/HG002_truth_set/HG002_GRCh38_1_22_v4.2.1_benchmark_norm.vcf.gz -c /rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/GATKhc/HG002_gatkhc_FINAL.vcf.gz -f /rds/general/user/fmazzaro/home/WORK/Large_variants/resources/reference/Homo_sapiens_assembly38.fasta -o truvari_results_gatkhc
+2026-02-27 11:50:21,469 [INFO] Params:
+{
+    "base": "/rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/HG002_truth_set/HG002_GRCh38_1_22_v4.2.1_benchmark_norm.vcf.gz",
+    "comp": "/rds/general/project/lms-ware-analysis/live/francesco/pangenomes_cnv/benchmarking_on_HG002/GATKhc/HG002_gatkhc_FINAL.vcf.gz",
+    "output": "truvari_results_gatkhc",
+    "includebed": "/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/target/exome-intersect_v5covered_highconfHG002.bed",
+    "extend": 0,
+    "debug": false,
+    "reference": "/rds/general/user/fmazzaro/home/WORK/Large_variants/resources/reference/Homo_sapiens_assembly38.fasta",
+    "refdist": 500,
+    "pctseq": 0.7,
+    "pctsize": 0.7,
+    "pctovl": 0.0,
+    "typeignore": false,
+    "no_roll": false,
+    "chunksize": 1000,
+    "bSample": "HG002",
+    "cSample": "HG002",
+    "dup_to_ins": true,
+    "bnddist": -1,
+    "sizemin": 20,
+    "sizefilt": 15,
+    "sizemax": -1,
+    "passonly": true,
+    "no_ref": false,
+    "pick": "single",
+    "ignore_monref": true,
+    "check_multi": true,
+    "check_monref": true,
+    "no_single_bnd": true,
+    "write_resolved": false,
+    "decompose": true,
+    "short_circuit": false,
+    "skip_gt": false,
+    "max_resolve": 25000
+}
+2026-02-27 11:50:21,649 [WARNING] 3171 contigs present in comparison VCF header are not in baseline VCF.
+2026-02-27 11:50:25,279 [INFO] Including 217322 bed regions
+2026-02-27 11:51:12,494 [INFO] Zipped 80649 variants Counter({'base': 41326, 'comp': 39323})
+2026-02-27 11:51:12,495 [INFO] 82 chunks of 80649 variants Counter({'__filtered': 80525, 'comp': 79, 'base': 45})
+2026-02-27 11:51:12,768 [INFO] Stats: {
+    "TP-base": 42,
+    "TP-comp": 42,
+    "FP": 2,
+    "FN": 3,
+    "precision": 0.9545454545454546,
+    "recall": 0.9333333333333333,
+    "f1": 0.9438202247191012,
+    "base cnt": 45,
+    "comp cnt": 44,
+    "TP-comp_TP-gt": 42,
+    "TP-comp_FP-gt": 0,
+    "TP-base_TP-gt": 42,
+    "TP-base_FP-gt": 0,
+    "gt_concordance": 1.0,
+    "gt_matrix": {
+        "(0, 1)": {
+            "(0, 1)": 28
+        },
+        "(1, 1)": {
+            "(1, 1)": 14
+        }
+    }
+}
+2026-02-27 11:51:12,768 [INFO] Finished bench
